@@ -1,0 +1,12 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+"C1, C2",2,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,Unpolarized capacitor
+"C3, Cboot1",2,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,Unpolarized capacitor
+Cff1,1,C,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,Unpolarized capacitor
+Cout1,1,C,C_1808_4520Metric_Pad1.72x2.30mm_HandSolder,,,,smt,Unpolarized capacitor
+J1,1,INPUT,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",,,,tht,"Generic connector, single row, 01x02, script generated"
+J2,1,OUTPUT,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",,,,tht,"Generic connector, single row, 01x02, script generated"
+Lout1,1,8.2uH,L_Axial_L11.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_MECC,,,,tht,Inductor
+RFBT1,1,110k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor
+RFDB1,1,13k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor
+Rff1,1,R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor
+U1,1,LMR51450SDRRR,WSON_SDRRR_TEX,,,,smt,

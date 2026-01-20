@@ -1,0 +1,14 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+167.005,-74.295,90.0,top,C1,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,10uF,smt
+170.18,-74.295,90.0,top,C2,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,10uF,smt
+173.355,-74.295,90.0,top,C3,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,0.1uF,smt
+169.545,-78.74,90.0,top,Cboot1,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,0.1uF,smt
+184.15,-76.2,-90.0,top,Cff1,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C,smt
+187.325,-74.93,-90.0,top,Cout1,,,C_1808_4520Metric_Pad1.72x2.30mm_HandSolder,C,smt
+158.5775,-77.465,-90.0,top,J1,,,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",INPUT,tht
+194.4825,-82.555,90.0,top,J2,,,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",OUTPUT,tht
+166.365,-85.725,0.0,top,Lout1,,,L_Axial_L11.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_MECC,8.2uH,tht
+180.705,-81.28,0.0,top,RFBT1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,110k,smt
+180.705,-78.105,180.0,top,RFDB1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,13k,smt
+184.15,-81.28,-90.0,top,Rff1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,R,smt
+178.435,-74.295,0.0,top,U1,,,WSON_SDRRR_TEX,LMR51450SDRRR,smt

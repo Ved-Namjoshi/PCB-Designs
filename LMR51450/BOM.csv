@@ -1,0 +1,12 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+C1,C2	2	10uF				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	~
+C3,Cboot1	2	0.1uF				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	~
+Cff1	1	C				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	~
+Cout1	1	C				Capacitor_SMD:C_1808_4520Metric_Pad1.72x2.30mm_HandSolder	~
+J1	1	INPUT				TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal	~
+J2	1	OUTPUT				TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal	~
+Lout1	1	8.2uH				Inductor_THT:L_Axial_L11.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_MECC	~
+RFBT1	1	110k				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	~
+RFDB1	1	13k				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	~
+Rff1	1	R				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	~
+U1	1	LMR51450SDRRR				footprints:WSON_SDRRR_TEX	https://www.ti.com/lit/gpn/lmr51450
